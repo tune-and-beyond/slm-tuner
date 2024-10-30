@@ -157,10 +157,8 @@ Here are various formats you can use:
 2. Each line should be a complete JSON object
 3. Save with proper encoding (UTF-8)
 
-Example usage:
+Example usage (training_data.jsonl):
 ```json
-# training_data.jsonl
-
 {
     "instruction": "What is Python?", 
     "response": "Python is a high-level, interpreted programming language known for its simplicity and readability. It emphasizes code readability with its notable use of significant whitespace."
